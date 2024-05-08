@@ -1,0 +1,1 @@
+Scripts pythons utilisés dans le cadre du mémoire sur les collectes thématiques d'archives du web sur l'IA.
